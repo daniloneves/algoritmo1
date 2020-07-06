@@ -1,0 +1,13 @@
+C:\repo\Algoritmo1\Algoritmo1\bin\Debug\netcoreapp3.1\Algoritmo1.exe
+C:\repo\Algoritmo1\Algoritmo1\bin\Debug\netcoreapp3.1\Algoritmo1.deps.json
+C:\repo\Algoritmo1\Algoritmo1\bin\Debug\netcoreapp3.1\Algoritmo1.runtimeconfig.json
+C:\repo\Algoritmo1\Algoritmo1\bin\Debug\netcoreapp3.1\Algoritmo1.runtimeconfig.dev.json
+C:\repo\Algoritmo1\Algoritmo1\bin\Debug\netcoreapp3.1\Algoritmo1.dll
+C:\repo\Algoritmo1\Algoritmo1\bin\Debug\netcoreapp3.1\Algoritmo1.pdb
+C:\repo\Algoritmo1\Algoritmo1\obj\Debug\netcoreapp3.1\Algoritmo1.csprojAssemblyReference.cache
+C:\repo\Algoritmo1\Algoritmo1\obj\Debug\netcoreapp3.1\Algoritmo1.AssemblyInfoInputs.cache
+C:\repo\Algoritmo1\Algoritmo1\obj\Debug\netcoreapp3.1\Algoritmo1.AssemblyInfo.cs
+C:\repo\Algoritmo1\Algoritmo1\obj\Debug\netcoreapp3.1\Algoritmo1.csproj.CoreCompileInputs.cache
+C:\repo\Algoritmo1\Algoritmo1\obj\Debug\netcoreapp3.1\Algoritmo1.dll
+C:\repo\Algoritmo1\Algoritmo1\obj\Debug\netcoreapp3.1\Algoritmo1.pdb
+C:\repo\Algoritmo1\Algoritmo1\obj\Debug\netcoreapp3.1\Algoritmo1.genruntimeconfig.cache
